@@ -1,0 +1,21 @@
+--Lab 1: 81,203,007  (~1h18 remaining)
+2 steps + question 
+tries: ||||
+
+--Lab 2: 137,755,102  (~1h23m55 remaining)
+2 steps
+tries: |||
+
+-- Lab 3: 529,411,764 (~1h28 remaining)
+tries: ||||
+
+-- Lab 4: 295,081,967 (~1h26m55 remaining)
+4 steps
+tries: ||||
+
+
+https://www.cloudskillsboost.google/assessments/run_step.json?id=52596978&step=1
+https://www.cloudskillsboost.google/lab_instances/end/52596978.json
+
+
+L1 answer: An open source framework for connecting, securing, and managing microservices
